@@ -1,4 +1,4 @@
-# Web Application Vulnerability Scanner Evalutation Project [![Build Status](https://secure.travis-ci.org/rapid7-cookbooks/wavsep.png)](http://travis-ci.org/rapid7-cookbooks/wavsep)
+# Web Application Vulnerability Scanner Evalutation Project [![Build Status](https://secure.travis-ci.org/rapid7-cookbooks/wavsep.png)](http://travis-ci.org/rapid7-cookbooks/wavsep) [![Dependency Status](https://gemnasium.com/rapid7-cookbooks/wavsep.png)](https://gemnasium.com/rapid7-cookbooks/wavsep)
 ## Description
 Installs WAVSEP over tomcat on Ubuntu 12.04.
 
