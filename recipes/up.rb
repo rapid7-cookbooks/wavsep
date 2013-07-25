@@ -7,7 +7,7 @@
 # All Rights Reserved - Do Not Redistribute
 #
 
-include_recipe "wavsep::install"
+include_recipe "wavsep::server"
 
 service "tomcat7" do
   action :start

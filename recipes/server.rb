@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: wavsep
-# Recipe:: install
+# Recipe:: server
 #
 # Copyright (c) 2013, Rapid7
 #
