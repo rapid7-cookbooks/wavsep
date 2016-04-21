@@ -5,9 +5,6 @@ Vagrant.configure('2') do |config|
   config.berkshelf.enabled = true
   config.omnibus.chef_version = :latest
 
-  config.ssh.max_tries = 40
-  config.ssh.timeout   = 120
-
   config.vm.box = 'precise64'
   config.vm.box_url = 'http://files.vagrantup.com/precise64.box'
   config.vm.hostname = 'wavsep-server'
